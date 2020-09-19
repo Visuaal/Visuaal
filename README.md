@@ -44,17 +44,15 @@
 
 ---
 
-<details> 
-
-  <summary>:bar_chart: Github Stats</summary>
-
   <img align="left" alt="Visual's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Visuaal&show_icons=true&hide_border=true" />
+
+  <br />
 
   <img align="left" alt="Visual's Most Used Languages" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Visuaal" />
 
-  <img align="left" alt="Visual's Pinned Repository" src="https://github-readme-stats.codestackr.vercel.app/api/pin?username=Visuaal&repo=nitrosniper" />
+  <br />
 
-</details>
+  <img align="left" alt="Visual's Pinned Repository" src="https://github-readme-stats.codestackr.vercel.app/api/pin?username=Visuaal&repo=nitrosniper" />
 
 [twitter]: https://twitter.com/Visuaal_
 [discord]: https://discord.gg/DhDxz9E
