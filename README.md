@@ -4,6 +4,11 @@
 
 ---
 
+### Spotify Playing 🎧
+[<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Visual Spotify Playing" width="350" />](https://open.spotify.com/user/uh2g31u770zovxnx7gxyz7ggu)
+
+---
+
   <img align="left" alt="Visual's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Visuaal&show_icons=true&hide_border=true" />
 
   <br />
@@ -13,13 +18,6 @@
   <br />
 
   <img align="left" alt="Visual's Pinned Repository" src="https://github-readme-stats.codestackr.vercel.app/api/pin?username=Visuaal&repo=nitrosniper" />
-
----
-
-### Spotify Playing 🎧
-[<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Visual Spotify Playing" width="350" />](https://open.spotify.com/user/uh2g31u770zovxnx7gxyz7ggu)
-
----
 
 ### Connect with me:
 
