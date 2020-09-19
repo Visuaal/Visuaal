@@ -10,6 +10,7 @@
 
   <img align="left" alt="Visual's Pinned Repository" src="https://github-readme-stats.codestackr.vercel.app/api/pin?username=Visuaal&repo=nitrosniper" />
   
+  ### Spotify Playing 🎧
   [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Visual Spotify Playing" width="350" />](https://open.spotify.com/user/uh2g31u770zovxnx7gxyz7ggu)
   
 ---
