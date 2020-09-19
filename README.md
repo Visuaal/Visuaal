@@ -27,23 +27,6 @@
 
 ---
 
-//### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCjV7qqIdYDHCVlD5xoCqxsA?sub_confirmation=1)
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
   <img align="left" alt="Visual's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Visuaal&show_icons=true&hide_border=true" />
 
   <br />
