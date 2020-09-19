@@ -8,7 +8,7 @@
 
   <br />
 
-  <img align="right" alt="Visual's Most Used Languages" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Visuaal" />
+  <img align="left" alt="Visual's Most Used Languages" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Visuaal" />
 
   <br />
 
