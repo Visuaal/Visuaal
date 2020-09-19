@@ -19,6 +19,9 @@
   
 ---
 
+<br />
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="Visual | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/discord.svg" />][discord]
