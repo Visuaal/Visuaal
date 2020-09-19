@@ -31,11 +31,15 @@
 
   <br />
 
-  <img align="left" alt="Visual's Most Used Languages" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Visuaal" />
+  <img align="right" alt="Visual's Most Used Languages" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Visuaal" />
 
   <br />
 
   <img align="left" alt="Visual's Pinned Repository" src="https://github-readme-stats.codestackr.vercel.app/api/pin?username=Visuaal&repo=nitrosniper" />
+  
+  <br />
+  
+  <img align="right" alt="Visual's Weaktime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Visuaal" />
 
 [twitter]: https://twitter.com/Visuaal_
 [discord]: https://discord.gg/DhDxz9E
