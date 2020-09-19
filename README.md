@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Visuaal_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVisuaal_&screen_name=codeSTACKr)
 
-## Soon
+## About me
 
 - 🔭 Test test Test test Test test Test test 
 - 🌱 Test test Test test Test test Test test Test test 
@@ -11,7 +11,7 @@
 - ⚡ Test test Test test Test test 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Visual Spotify Playing" width="350" />](https://open.spotify.com/user/uh2g31u770zovxnx7gxyz7ggu)
 
 ---
 
@@ -19,6 +19,7 @@
 
 [<img align="left" alt="Visual | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/discord.svg" />][discord]
 [<img align="left" alt="Visual | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Visual | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Visual | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/steam.svg" />][steam]
 
 <br />
@@ -51,11 +52,11 @@
 
   <img align="left" alt="Visual's Most Used Languages" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Visuaal" />
 
-  <img align="left" alt="Visual's Pinned Repository" src="https://github-readme-stats.codestackr.vercel.app/api/pin?username=Visuaal&repo=github-readme-stats" />
+  <img align="left" alt="Visual's Pinned Repository" src="https://github-readme-stats.codestackr.vercel.app/api/pin?username=Visuaal&repo=nitrosniper" />
 
 </details>
 
 [twitter]: https://twitter.com/Visuaal_
 [discord]: https://discord.gg/DhDxz9E
 [steam]: https://steamcommunity.com/id/visuaal/ 
-[youtube]: https://youtube.com/
+[youtube]: https://www.youtube.com/channel/UCjV7qqIdYDHCVlD5xoCqxsA?sub_confirmation=1
